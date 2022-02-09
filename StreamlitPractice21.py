@@ -12,7 +12,7 @@ import streamlit as st
 
 #Import Image from pillow to open images
 from PIL import Image
-img = Image.open("hotel.png")
+img = Image.open("hotel.jpg")
  
 # display image using streamlit
 # width is used to set the width of an image
